@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on studying PHP
+- 🌱 Estou atualmente estudando PHP e focarei nessa linguagem.
 
 <!--
 **paulocorazza/paulocorazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
